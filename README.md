@@ -1,2 +1,2 @@
-# recipes-website-odin-project
+# recipe-website-odin-project
 1st project in Odin. A website with food recipe links.
