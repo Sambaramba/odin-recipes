@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    font-weight: 800;
+    color: hsl(302, 70%, 17%, 0.983);
+    background-color: #f3e809;
+    text-decoration: underline;
+}
+
+h1,
+h2 {
+    text-decoration: underline;
+}
+
+.shazaam {
+    font-family: serif;
+    color: rgb(238, 27, 210);
+    background-color: rgb(40, 176, 60);
+}
